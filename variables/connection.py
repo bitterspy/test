@@ -1,0 +1,4 @@
+HOSTNAME = "192.168.1.100"
+PORT = 22
+USERNAME = "user"
+PASSWORD = "password"
